@@ -1,5 +1,4 @@
 # hackathon2k18
-=
 ## Inspiration to 
 We wanted a website that would be a catch-all for an Immigrant's experience in the US -- everything from food to shopping to housing etc. As we brainstormed, we noticed a lot of resources already exist for a smooth immigrant experience, but access to those resources can require multiple steps or certain knowledge (like where to look for information or the ability to speak english). From this, we determined our first objective to be unifying all basic resources into a language-compatible and convenient location. Branching off this idea, our team found common interest in the area of professional skill authentication. 
 ## What it does
